@@ -1,0 +1,6 @@
+C:\Development\ArrayLoops\ArrayLoops\bin\Debug\ArrayLoops.exe.config
+C:\Development\ArrayLoops\ArrayLoops\bin\Debug\ArrayLoops.exe
+C:\Development\ArrayLoops\ArrayLoops\bin\Debug\ArrayLoops.pdb
+C:\Development\ArrayLoops\ArrayLoops\obj\Debug\ArrayLoops.csprojResolveAssemblyReference.cache
+C:\Development\ArrayLoops\ArrayLoops\obj\Debug\ArrayLoops.exe
+C:\Development\ArrayLoops\ArrayLoops\obj\Debug\ArrayLoops.pdb
